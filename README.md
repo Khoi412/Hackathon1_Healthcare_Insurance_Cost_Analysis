@@ -16,7 +16,10 @@
 ## Hypothesis and how to validate?
 * Does Gender play a major role in how charges are applied?
 * Answer: Too many factors to conclude that gender plays a role in increased health insurance charges.
-* 
+* Checking the other categories against health insurance charges.
+* Answer: Non-smokers stands out, has a lot of Outliers in relation to increased health insurance.
+* Find the correlation with the non-smoker outliers as to why the increased in health insurance.
+* Answer:
 * List here your project hypothesis(es) and how you envision validating it (them) 
 
 ## Project Plan
