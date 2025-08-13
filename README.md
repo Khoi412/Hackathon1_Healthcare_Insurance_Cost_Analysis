@@ -10,10 +10,11 @@
 * Health Care Insurance dataset contains information on personal attributes and is complied into 7 categories(age, gender, BMI, family size, smoker or non-smoker, region and charges). This data set has 7 columns and 1338 rows.  
 
 ## Business Requirements
-*  Make a correlations on these factors and see how it affects health insurance charges.  
+* Make a correlations on these factors and see how it affects health insurance charges.  
 
 
 ## Hypothesis and how to validate?
+* Does Gender play a major role in how charges are applied?
 * List here your project hypothesis(es) and how you envision validating it (them) 
 
 ## Project Plan
