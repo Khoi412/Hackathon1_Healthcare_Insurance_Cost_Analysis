@@ -98,11 +98,11 @@
 * In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 * You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
-* DataSet was from https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
+* - DataSet was from https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
 
-* Chatgpt.com for helping me when i was stuck on coding
+* - Chatgpt.com for helping me when i was stuck on coding
 
-* Github Copilot on VS code helped improve or fix my coding.
+* - Github Copilot on VS code helped improve or fix my coding.
 
 ### Content 
 
