@@ -25,9 +25,9 @@
 
 * Hypothesis 2.
 
-* - Does Children play role in health insurance cost?
+* - Does Children play a role in health insurance cost?
 
-* - Answer: Yes, individuals with 0-3 children were charged the most(0 being the highest) and 5 plus was charged the less.
+* - Answer: Yes, individuals with 0-3 children were charged the most (0 being the highest) and 5 plus was charged the less.
 
 * Hypothesis 3.
 
@@ -60,6 +60,10 @@
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
+* - Descriptive analytics to showcase past data on personal and geographical influences on Health Insurance costs.
+* - Diagnostics analytics to find correlations between certain factors on Health Insurance costs.
+* - Predictive analytics to use past data to forecast future costs on Healt Insurance costs.
+
 * How did you structure the data analysis techniques. Justify your response.
 * Did the data limit you, and did you use an alternative approach to meet these challenges?
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
