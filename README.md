@@ -65,7 +65,10 @@
 * - Predictive analytics to use past data to forecast future costs on Healt Insurance costs.
 
 * How did you structure the data analysis techniques. Justify your response.
+* - I used Descriptive to get all the data to read and understand 
+
 * Did the data limit you, and did you use an alternative approach to meet these challenges?
+* - No 
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
