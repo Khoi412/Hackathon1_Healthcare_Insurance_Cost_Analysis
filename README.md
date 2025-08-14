@@ -14,6 +14,9 @@
  * Make a correlations on these factors and see how it affects health insurance charges. 
 
 ## Hypothesis and how to validate?
+* List here your project hypothesis(es) and how you envision validating it (them) 
+
+
 * Hypothesis 1.
 
 * Does Gender play a major role in how charges are applied?
@@ -38,7 +41,6 @@
 
 * Answer: Age plays the most significant factor in determining health insurance cost, 18-20 was the highest for both male and female and so was 60 plus. Side note region was in the south area was where both highest cost were charged.
 
-* List here your project hypothesis(es) and how you envision validating it (them) 
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
@@ -82,11 +84,11 @@
 ## Main Data Analysis Libraries
 * Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
 
-Pandas: Convert CSV file to a DataFrame
-Numpy:
-Matplotlib: Various Data Plots
-Seaborn:  Various Data Plots
-Plotly: Interactive Data Plots
+* Pandas: Convert CSV file to a DataFrame
+* Numpy: Numerical values
+* Matplotlib: Various Data Plots
+* Seaborn:  Various Data Plots
+* Plotly: Interactive Data Plots
 
 
 ## Credits 
