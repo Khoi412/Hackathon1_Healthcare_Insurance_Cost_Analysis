@@ -78,7 +78,13 @@
 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
+
+* - Everything it was all new to me, the predictive segment was extremely difficult.
+* - I used Chatgpt for the predictive analysis as i didn't know how to start one.
+
 * What new skills or tools do you plan to learn next based on your project experience? 
+
+* - Delve into more scikit-learn to better understand predictive analytics.
 
 
 
@@ -91,6 +97,7 @@
 * - Matplotlib: Various Data Plots
 * - Seaborn:  Various Data Plots
 * - Plotly: Interactive Data Plots
+* - scikit-learn: Predictive analysis
 
 
 ## Credits 
