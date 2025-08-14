@@ -65,7 +65,7 @@
 * - Predictive analytics to use past data to forecast future costs on Healt Insurance costs.
 
 * How did you structure the data analysis techniques. Justify your response.
-* - I used Descriptive to get all the data to read and understand 
+* - I used Descriptive to get all the data to read and understand the results then i used Diagnostics to further delve into the results to see and trends patterns or factors that influenced costs
 
 * Did the data limit you, and did you use an alternative approach to meet these challenges?
 * - No 
