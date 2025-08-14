@@ -27,7 +27,7 @@
 
 * - Does Children play role in health insurance cost?
 
-* - Answer: Yes, individuals with 0 children were charged the most and 5 plus was charged the less.
+* - Answer: Yes, individuals with 0-3 children were charged the most(0 being the highest) and 5 plus was charged the less.
 
 * Hypothesis 3.
 
